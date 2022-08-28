@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SAI CHANDU
 - 👀 I’m interested in Cloud Computing 
-- 🌱 I’m currently learning Adroid App Development
+- 🌱 I’m currently learning Android App Development
 - 💞️ I’m looking to collaborate on Google
 - 📫 I will be available on Linked-in
 
